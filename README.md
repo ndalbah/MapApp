@@ -81,3 +81,13 @@ Custom `LocationManager`:
 * Combine
 * Swift Concurrency (`async/await`)
 * iOS 17 Map APIs (`MapCameraPosition`, `MapPolyline`)
+
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" width="250"/>
+  <img src="screenshots/route-driving.png" width="250"/>
+  <img src="screenshots/route-walking.png" width="250"/>
+</p>
