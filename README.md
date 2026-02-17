@@ -86,8 +86,9 @@ Custom `LocationManager`:
 
 ## Screenshots
 
-<p align="center">
-  <img src="screenshots/home.png" width="250"/>
-  <img src="screenshots/route-driving.png" width="250"/>
-  <img src="screenshots/route-walking.png" width="250"/>
+
+<p align="center" >
+  <img width="301" height="655" alt="home" src="https://github.com/user-attachments/assets/1f2dd55b-3a52-4499-95ee-26292320af62" />
+  <img width="301" height="655" alt="route-driving" src="https://github.com/user-attachments/assets/694409cb-7cac-46fb-9e41-4640dc03d71c" />
+  <img width="301" height="655" alt="route-walking" src="https://github.com/user-attachments/assets/a16ac21f-a2b2-421a-a6d5-8a9134d708af" />
 </p>
